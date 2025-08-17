@@ -1,4 +1,4 @@
-# next js based backend
+#  based backend
 - ## todo list [[TODO]]
 	- TODO 404 error page
 	- TODO admin page
