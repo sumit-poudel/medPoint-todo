@@ -1,6 +1,5 @@
-#  based backend
-- ## todo list [[TODO]]
-	- TODO 404 error page
+# php based backend
+- ## todo list [[TODO]
 	- TODO admin page
 	- TODO logic for login i.e buyer & seller
 	- TODO database
